@@ -1,0 +1,46 @@
+📁 Testing Category Endpoints...
+Creating Categories:
+{ error: 'Do not know how to serialize a BigInt' }
+{ error: 'Do not know how to serialize a BigInt' }
+{ error: 'Do not know how to serialize a BigInt' }
+Getting All Categories:
+[
+  { id: 1, name: 'Salary', cat_type: 'income' },
+  { id: 2, name: 'Groceries', cat_type: 'expense' },
+  { id: 3, name: 'Rent', cat_type: 'expense' }
+]
+💰 Testing Transaction Endpoints...
+Creating Transaction:
+{ error: 'Do not know how to serialize a BigInt' }
+Getting All Transactions:
+[
+  {
+    id: 1,
+    trans_type: 'expense',
+    category_id: 2,
+    user_id: 1,
+    amount: 50.25,
+    trans_date: '2024-10-22 17:08:47',
+    description: 'Weekly groceries',
+    category_name: 'Groceries'
+  }
+]
+Getting Single Transaction:
+{ error: 'Transaction not found' }
+Updating Transaction:
+{ error: 'Transaction not found' }
+📊 Testing Report Endpoints...
+Getting Summary:
+{ total_income: 0, total_expenses: 50.25, balance: -50.25 }
+Getting Monthly Report:
+{
+  period: 'October 2024',
+  total_income: 0,
+  total_expenses: 50.25,
+  balance: -50.25
+}
+🧹 Cleanup Tests...
+Deleting Transaction:
+{ error: 'Transaction not found' }
+Testing Logout:
+{ message: 'Logged out successfully' } 
