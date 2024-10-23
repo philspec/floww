@@ -45,7 +45,7 @@ Floww is a RESTful API for a simple expense tracker application. It allows users
 
    [https://floww-xgo1.onrender.com] (Link to hosted api)
 
-   >While using the above service, as it is hoted on render free tier, the instance spins down after 15 min of inactivity and may take upto 50 sec for a fresh cold start. So, please be patient while doing your first API request.
+   >**While using the above service, as it is hosted on render free tier web server, the instance spins down after 15 min of inactivity and may take upto 50 sec for a fresh cold start. So, please be patient while doing your first API request.**
 
 ## API Documentation
 
