@@ -41,7 +41,9 @@ Floww is a RESTful API for a simple expense tracker application. It allows users
 
 5. **Hosted service with free tier limits**
 
-   -Alternatively we have hosted the app on render free tier backend running on node and connected it to the Turso SQlite free tier db server. You can use this as a demo for the app before installing on your machine. 
+   -Alternatively we have hosted the app on render free tier backend running on node and connected it to the Turso SQlite free tier db server. You can use this as a demo for the app before installing on your machine. You can test it on postman. Here is the link to the backend
+
+   [https://floww-xgo1.onrender.com](Link to hosted api)
 
 ## API Documentation
 
