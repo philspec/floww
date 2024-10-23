@@ -346,7 +346,8 @@ Floww is a RESTful API for a simple expense tracker application. It allows users
     ```
 ## Postman Screenshots 
 
-![ss1]((https://drive.google.com/file/d/10EInTk-OVWB127VblZuFDAhjFLaMvZ2K/view?usp=drive_link))
+<img src="[./assets/screenshot.png](https://drive.google.com/file/d/10EInTk-OVWB127VblZuFDAhjFLaMvZ2K/view?usp=drive_link)" alt="Screenshot" width="400" />
+
 
 ## Database Interaction
 
