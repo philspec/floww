@@ -22,6 +22,7 @@ Floww is a RESTful API for a simple expense tracker application. It allows users
 3. **Set up the database:**
 
    - This application uses `@libsql/client` to connect to a SQLite database.
+   - If you want to run your local db, just replace the url in db connection to "file:your-db.db"
    - Create a `.env` file in the root directory and set the following environment variables:
 
      ```
@@ -30,19 +31,17 @@ Floww is a RESTful API for a simple expense tracker application. It allows users
      JWT_SECRET=your-secret-key  # Secret key for JWT signing
      ```
 
-   - Run the database initialization script:
-
-     ```bash
-     node db.js
-     ```
-
 4. **Start the server:**
 
    ```bash
-   node index.js
+   node app.js
    ```
 
    The API will be running at `http://localhost:3000`.
+
+5. **Hosted service with free tier limits**
+
+   -Alternatively we have hosted the app on render free tier backend running on node and connected it to the Turso SQlite free tier db server. You can use this as a demo for the app before installing on your machine. 
 
 ## API Documentation
 
