@@ -346,7 +346,36 @@ Floww is a RESTful API for a simple expense tracker application. It allows users
     ```
 ## Postman Screenshots 
 
-<img src="[./assets/screenshot.png](https://drive.google.com/file/d/10EInTk-OVWB127VblZuFDAhjFLaMvZ2K/view?usp=drive_link)" alt="Screenshot" width="400" />
+## Image 1
+![Image 1](https://drive.google.com/uc?export=view&id=10EInTk-OVWB127VblZuFDAhjFLaMvZ2K)
+
+## Image 2
+![Image 2](https://drive.google.com/uc?export=view&id=1GXXqv3RRxc7Uv0S-CbV881QuZ_otRcvJ)
+
+## Image 3
+![Image 3](https://drive.google.com/uc?export=view&id=19QN9Vy4UAxq1r6793-2QbB1ZZbBo80tp)
+
+## Image 4
+![Image 4](https://drive.google.com/uc?export=view&id=14peFigZ0jv77Q6e5dJWZBuFT6FVZ1m4u)
+
+## Image 5
+![Image 5](https://drive.google.com/uc?export=view&id=1vLxIa63i1h_ewarV6xBkFui3WkHkW7Jx)
+
+## Image 6
+![Image 6](https://drive.google.com/uc?export=view&id=1Unx4K24bDFmFueWXND2vy-Duz5UDZibb)
+
+## Image 7
+![Image 7](https://drive.google.com/uc?export=view&id=1bHrDsOIwZwjep87F4Tc-m5hfbML7HyBR)
+
+## Image 8
+![Image 8](https://drive.google.com/uc?export=view&id=10e23-TR1wu0mp9jRArlxB5_5vGCSbtiS)
+
+## Image 9
+![Image 9](https://drive.google.com/uc?export=view&id=10ZDiOdp19jijlOG8WQFL6wA8x_MQPqH-)
+
+## Image 10
+![Image 10](https://drive.google.com/uc?export=view&id=1AVHy5ijx1EV_2InxCLYIgZeK_U9U33nr)
+
 
 
 ## Database Interaction
