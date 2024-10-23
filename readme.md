@@ -344,10 +344,13 @@ Floww is a RESTful API for a simple expense tracker application. It allows users
       "balance": 949.75
     }
     ```
+## Postman Screenshots 
+
+![ss1]((https://drive.google.com/file/d/10EInTk-OVWB127VblZuFDAhjFLaMvZ2K/view?usp=drive_link))
 
 ## Database Interaction
 
-This application uses the `@libsql/client` library for interacting with the SQLite database. The `db.js` file handles database connection and table creation.
+This application uses the `@libsql/client` library for interacting with the SQLite database.
 
 For detailed information on the database syntax and available methods, refer to the `dbsyntax.md` file.
 
